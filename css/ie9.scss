@@ -60,13 +60,13 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		position: relative;
-		margin-left:10%;
+		margin-left:50%;
 
 		&:before {
 			background: #000000;
 			content: '';
 			height: 100%;
-			left: 0;
+			margin-left: 50%;
 			opacity: 1.0;
 			position: absolute;
 			top: 0;
